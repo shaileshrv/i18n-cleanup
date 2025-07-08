@@ -1,0 +1,45 @@
+{
+  "name": "i18n-cleanup",
+  "version": "1.0.0",
+  "description": "A CLI tool to clean up duplicate keys in i18n JSON locale files by comparing them with a base translation file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "i18n-cleanup": "./cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaileshrv/i18n-cleanup.git"
+  },
+  "keywords": [
+    "i18n",
+    "internationalization",
+    "localization",
+    "l10n",
+    "json",
+    "translation",
+    "translations",
+    "merge",
+    "deduplicate",
+    "deduplication",
+    "cleanup",
+    "json-cleanup",
+    "translation-cleaner",
+    "i18n-cleanup",
+    "i18n-merge",
+    "locale",
+    "locale-json",
+    "cli",
+    "cli-tool",
+    "nodejs",
+    "npm-package"
+  ],
+  "author": "Shailesh R Vishvakarma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shaileshrv/i18n-cleanup/issues"
+  },
+  "homepage": "https://github.com/shaileshrv/i18n-cleanup#readme"
+}
